@@ -1,7 +1,7 @@
 {
   "name": "telegram-bot",
   "version": "1.0.0",
-  "description": "A modular Telegram bot",
+  "description": "A MULTI MODULER TG BOT",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -18,5 +18,10 @@
     "nayan-media-downloaders": "latest", 
     "speakeasy": "^2.0.0",
     "uuid": "^9.0.0"
-  }
+  },
+  "author": "LIKHON AHMED",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/likhontheoldstyle/LIKHON-TG-BOT.git"
 }
